@@ -248,3 +248,6 @@ This repository serves as the official landing page for Plant Tycoon. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Plant Tycoon today!**
+
+---
+**Last updated:** 2026-09-10 08:33:39 UTC
